@@ -16,6 +16,6 @@ class PersegiController extends GetxController{
   void hitungKel(){
     int hitung = sisi*4;
     warna1.value = Colors.grey;
-    hasil.value = "hasil Perhitungan luas dari $sisi = $hitung";
+    hasil.value = "hasil Perhitungan keliling dari $sisi = $hitung";
   }
 }
